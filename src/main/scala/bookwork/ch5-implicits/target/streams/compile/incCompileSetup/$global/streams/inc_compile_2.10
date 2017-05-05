@@ -1,0 +1,437 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/database_api/InvalidColumnName$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/database_api/InvalidColumnName.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/database_api/Row.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/javadb/JRow$$anonfun$get$1.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/javadb/JRow$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/javadb/JRow.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/DB$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/DB.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits$$anonfun$1.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits$$anonfun$2.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits$$anonfun$3.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits$SRow.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2$$anonfun$1.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2$$anonfun$2.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2$$anonfun$3.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2$$anonfun$4.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Pipeline$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Pipeline$toPiped.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Pipeline.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Employee$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Employee.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Final.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Pay$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Pay.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Payroll$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Payroll.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/PostTaxDeductions.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/PreTaxDeductions.class
+binary dependencies:
+6 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> /Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+34 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.database_api.InvalidColumnName
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.database_api.InvalidColumnName$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.database_api.Row
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.javadb.JRow
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.javadb.JRow$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.javadb.JRow$$anonfun$get$1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.scaladb.DB
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.scaladb.DB$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.scaladb.implicits
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.scaladb.implicits$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.scaladb.implicits$$anonfun$1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.scaladb.implicits$$anonfun$2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.scaladb.implicits$$anonfun$3
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork.implicits.scaladb.implicits$SRow
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> bookwork.implicits.payroll.CalculatePayroll2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> bookwork.implicits.payroll.CalculatePayroll2$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> bookwork.implicits.payroll.CalculatePayroll2$$anonfun$1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> bookwork.implicits.payroll.CalculatePayroll2$$anonfun$2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> bookwork.implicits.payroll.CalculatePayroll2$$anonfun$3
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> bookwork.implicits.payroll.CalculatePayroll2$$anonfun$4
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> bookwork.implicits.payroll.Pipeline
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> bookwork.implicits.payroll.Pipeline$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> bookwork.implicits.payroll.Pipeline$toPiped
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.CalculatePayroll
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.CalculatePayroll$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.Employee
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.Employee$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.Final
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.Pay
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.Pay$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.Payroll
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.Payroll$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.PostTaxDeductions
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork.implicits.payroll.PreTaxDeductions
+used names:
+246 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> &&
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> ->
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> <byname>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> <init>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> <repeated>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> ==
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> A
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> AbstractFunction1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Any
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> AnyRef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Array
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> ArrowAssoc
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> B
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> B1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Boolean
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> DB
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Double
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Function2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> IndexOutOfBoundsException
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Int
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> InvalidColumnName
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Iterator
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> JRow
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Map
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> None
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Nothing
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Object
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Predef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Product
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Row
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> RuntimeException
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> SRow
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> ScalaRunTime
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Seq
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Serializable
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Some
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> String
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> StringContext
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> T
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> T0
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Tuple2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> Unit
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> _hashCode
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> _root_
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> _toString
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> any2ArrowAssoc
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> apply
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> asInstanceOf
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> bookwork
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> colName
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> database_api
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> eq
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> get
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> getDouble
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> getInt
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> getOrElse
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> getText
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> implicits
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> isInstanceOf
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> javadb
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> jrow
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> jrowToDouble
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> jrowToInt
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> jrowToText
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> name
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> oneValue1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> oneValue2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> package
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> pairs
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> println
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> representation
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> row
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> runtime
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> s
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> scala
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> scaladb
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> threeValue1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> threeValue2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> toString
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> toT
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> twoValue1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> twoValue2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> typedProductIterator
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> ||
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> *
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> /
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> <init>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> <repeated>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Any
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> AnyRef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Array
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> CalculatePayroll2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Employee
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Float
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Function1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Int
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Nothing
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Object
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Pay
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Payroll
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Pipeline
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> PostTaxDeductions
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> PreTaxDeductions
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Predef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> R
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> String
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> StringContext
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> StringOps
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> Unit
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> V
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> _root_
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> annualSalary
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> apply
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> arg$1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> arg$2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> arg$3
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> augmentString
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> bookwork
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> e
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> f
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> format
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> implicitConversions
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> implicits
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> language
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> minus401k
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> minusFinalDeductions
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> minusInsurance
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> minusTax
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> name
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> netPay
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> pay
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> payroll
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> percent
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> println
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> s
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> scala
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> start
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> toPiped
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> twoWeekGross
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> twoWeekNet
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> value
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> |>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> &&
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> *
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> -
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> /
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> <init>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> <repeated>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> ==
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> A
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> AbstractFunction6
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Any
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> AnyRef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Array
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Boolean
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> CalculatePayroll
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Employee
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Float
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> IndexOutOfBoundsException
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Int
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Iterator
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> None
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Nothing
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Object
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Pay
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Payroll
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> PostTaxDeductions
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> PreTaxDeductions
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Predef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Product
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> ScalaRunTime
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Serializable
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Some
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Statics
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Step
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> String
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> StringContext
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> StringOps
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> T
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> T0
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> T1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> T2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> T3
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> T4
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> T5
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> T6
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Tuple2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Tuple6
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> Unit
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> _401kDeductionRate
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> _root_
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> _toString
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> annualSalary
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> anyHash
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> arg$1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> arg$2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> arg$3
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> asInstanceOf
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> augmentString
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> bookwork
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> e
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> employee
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> eq
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> f
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> finalizeHash
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> floatHash
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> format
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> implicits
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> insurancePremiumsPerPayPeriod
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> isInstanceOf
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> minus401k
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> minusFinalDeductions
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> minusInsurance
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> minusTax
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> mix
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> name
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> netPay
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> newNet
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> package
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> pay
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> pay1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> pay2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> pay3
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> pay4
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> payroll
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> percent
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> postTaxDeductions
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> println
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> runtime
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> s
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> scala
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> start
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> taxRate
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> toString
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> twoWeekGross
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> twoWeekNet
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> typedProductIterator
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> x$1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> x$2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> x$3
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> x$4
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> x$5
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> x$6
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> x$7
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> x$8
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> ||
+product stamps:
+34 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/database_api/InvalidColumnName$.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/database_api/InvalidColumnName.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/database_api/Row.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/javadb/JRow$$anonfun$get$1.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/javadb/JRow$.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/javadb/JRow.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll$.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2$$anonfun$1.class -> lastModified(1493922726000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2$$anonfun$2.class -> lastModified(1493922726000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2$$anonfun$3.class -> lastModified(1493922726000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2$$anonfun$4.class -> lastModified(1493922726000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2$.class -> lastModified(1493922726000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/CalculatePayroll2.class -> lastModified(1493922726000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Employee$.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Employee.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Final.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Pay$.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Pay.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Payroll$.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Payroll.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Pipeline$.class -> lastModified(1493922726000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Pipeline$toPiped.class -> lastModified(1493922726000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/Pipeline.class -> lastModified(1493922726000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/PostTaxDeductions.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/payroll/PreTaxDeductions.class -> lastModified(1493922275000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/DB$.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/DB.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits$$anonfun$1.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits$$anonfun$2.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits$$anonfun$3.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits$.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits$SRow.class -> lastModified(1493914814000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/target/scala-2.10/classes/bookwork/implicits/scaladb/implicits.class -> lastModified(1493914814000)
+source stamps:
+3 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> hash(a69d884e1d9b0955d99369caff20a98193c1d289)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> hash(907ae53c6b37b680c450855dfdd8e425b82dcfcf)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> hash(52d73422b0a4d54517fac8f1b218a6d952e7d5bd)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1491769093000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.Function1
+internal apis:
+3 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwf9x6tgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAARzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAVCwLtdAAJanJvd1RvSW50c3EAfgAL2dJTzHQABFNSb3dzcQB+AAvwZ1ahdAAKanJvd1RvVGV4dHNxAH4AC8KtsyV0AAxqcm93VG9Eb3VibGV1cQB+AAkAAAA2c3EAfgALMGYtvXQABm5vdGlmeXNxAH4ACxYiunx0AAd1bmFwcGx5c3EAfgAL7PCBHXQAA1Jvd3NxAH4AC2SkwCF0AARuYW1lc3EAfgALuoGX+HQAD3ByaW50U3RhY2tUcmFjZXNxAH4AC+pbFjl0ABNnZXRMb2NhbGl6ZWRNZXNzYWdlc3EAfgALu6z2+XQABHdhaXRzcQB+AAsFiKMudAANJGFzSW5zdGFuY2VPZnNxAH4AC+8Yshx0AAxwcm9kdWN0QXJpdHlzcQB+AAuTtVLkdAAGZXF1YWxzc3EAfgALjwzgbnQAEGZpbGxJblN0YWNrVHJhY2VzcQB+AAt9p23idAAJaW5pdENhdXNlc3EAfgAL6iIXRHQADGFzSW5zdGFuY2VPZnNxAH4AC7283Cp0AAlnZXREb3VibGVzcQB+AAtvQnG6dAAMc3luY2hyb25pemVkc3EAfgALtHfCi3QADSRpc0luc3RhbmNlT2ZzcQB+AAuE65mCdAAIZ2V0Q2F1c2VzcQB+AAsdKmM6dAAIY2FuRXF1YWxzcQB+AAsFWoSSdAAJaW1wbGljaXRzc3EAfgALzzABdXQABG1haW5zcQB+AAtnhyFVdAANcHJvZHVjdFByZWZpeHNxAH4AC+neEFp0AAlub3RpZnlBbGxzcQB+AAunNNMGdAAMaXNJbnN0YW5jZU9mc3EAfgALBvUN93QADWdldFN0YWNrVHJhY2VzcQB+AAsOwAuKdAAUZ2V0U3RhY2tUcmFjZUVsZW1lbnRzcQB+AAtLrww6dAAESlJvd3NxAH4AC2dLXCJ0AAY8aW5pdD5zcQB+AAvxVvLwdAAKZ2V0TWVzc2FnZXNxAH4AC6+KRlZ0AA1zZXRTdGFja1RyYWNlc3EAfgALVNdoDHQABWFwcGx5c3EAfgALtfi1nXQADWdldFN1cHByZXNzZWRzcQB+AAswcEyqdAACPT1zcQB+AAsAhxIjdAASZ2V0U3RhY2tUcmFjZURlcHRoc3EAfgAL2pSDtXQABWNsb25lc3EAfgALKHYAu3QADWFkZFN1cHByZXNzZWRzcQB+AAuiED8fdAAGZ2V0SW50c3EAfgALnz0eL3QABiRpbml0JHNxAH4AC7LcvjB0AARjb3B5c3EAfgALLx7IMnQACHRvU3RyaW5nc3EAfgALCHY2r3QAAiE9c3EAfgALlfcwMHQAA2dldHNxAH4AC792N6F0AAhnZXRDbGFzc3NxAH4AC+lsuWZ0AAJEQnNxAH4ACws3Avp0AA5jb3B5JGRlZmF1bHQkMXNxAH4ACwlw1v50AAJuZXNxAH4AC5YwKJd0AAJlcXNxAH4AC5a3q110AA5yZXByZXNlbnRhdGlvbnNxAH4ACwnKNep0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAtz1wSAdAARSW52YWxpZENvbHVtbk5hbWVzcQB+AAsf2uk/dAAHZ2V0VGV4dHNxAH4AC7seCgN0AAIjI3NxAH4AC68Fcfl0AAhmaW5hbGl6ZXNxAH4ACxj2wn90AA5wcm9kdWN0RWxlbWVudHNxAH4AC45CrwJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAZzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ADFib29rd29yay5pbXBsaWNpdHMuZGF0YWJhc2VfYXBpLkludmFsaWRDb2x1bW5OYW1ldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ai0wACWluaGVyaXRlZHEAfgCLTAAHcGFyZW50c3EAfgCLeHEAfgCoc3EAfgCjdXEAfgCGAAAAAHNxAH4Ao3VxAH4AhgAAAABzcQB+AKN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAACXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKd0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMFzcQB+ALR0AAdQcm9kdWN0cQB+ALpzcQB+ALR0AAZFcXVhbHNxAH4AunNxAH4AtHQAEFJ1bnRpbWVFeGNlcHRpb25zcQB+ALhzcQB+ALt1cQB+AL4AAAADc3EAfgDAdAAEamF2YXNxAH4AwHQABGxhbmdxAH4AxXN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ABFVuaXRzcQB+ALhzcQB+ALt1cQB+AL4AAAACc3EAfgDAcQB+AMNxAH4AxXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AXh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJ50AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+ALVbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AKdzcQB+ALR0AAVBcnJheXEAfgGAdXEAfgCyAAAAAXNxAH4AtHQABlN0cmluZ3NxAH4AuHNxAH4Au3VxAH4AvgAAAANzcQB+AMBxAH4A0HNxAH4AwHEAfgDScQB+AMVzcQB+AKN1cQB+AIYAAAAAc3EAfgCjdXEAfgCyAAAAAnNxAH4AtHEAfgDfcQB+AZpzcQB+ALRxAH4A4XEAfgGAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAfYm9va3dvcmsuaW1wbGljaXRzLmRhdGFiYXNlX2FwaXNxAH4Bp3QAGWJvb2t3b3JrLmltcGxpY2l0cy5qYXZhZGJzcQB+Aad0ABJib29rd29yay5pbXBsaWNpdHNzcQB+Aad0ABpib29rd29yay5pbXBsaWNpdHMuc2NhbGFkYnNxAH4Bp3QACGJvb2t3b3Jrc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFb1EMB/nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AH8vVXNlcnMva2Npc3NlbGwvRG9jdW1lbnRzL0xlYXJuaW5nLU1hdGVyaWFsL1Byb2plY3RzL2l0ZXJhdGlvbjIvc3JjL21haW4vc2NhbGEvYm9va3dvcmsvY2g1LWltcGxpY2l0cy90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUpp2ITh2bCVXZk2nK/yCpgZPB0ok=
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTmQCdAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCod4LqdAAHdG9QaXBlZHVxAH4ACQAAABhzcQB+AAv0JKwqdAAGbm90aWZ5c3EAfgALrG2uiHQABHdhaXRzcQB+AAsqI2+IdAANJGFzSW5zdGFuY2VPZnNxAH4AC+nnzo10ABFDYWxjdWxhdGVQYXlyb2xsMnNxAH4AC7YOxeN0AAZlcXVhbHNzcQB+AAsqNIbydAACfD5zcQB+AAsytVuKdAAMYXNJbnN0YW5jZU9mc3EAfgALzuSgw3QADHN5bmNocm9uaXplZHNxAH4ACySI92N0AA0kaXNJbnN0YW5jZU9mc3EAfgAL+zsSC3QACFBpcGVsaW5lc3EAfgALwqMFqXQABG1haW5zcQB+AAslCmAydAAJbm90aWZ5QWxsc3EAfgALoKq8k3QADGlzSW5zdGFuY2VPZnNxAH4AC5HxHpN0AAY8aW5pdD5zcQB+AAv9EtMvdAACPT1zcQB+AAuCpjoudAAFY2xvbmVzcQB+AAtPilegdAAIdG9TdHJpbmdzcQB+AAuKiUZidAACIT1zcQB+AAugefpEdAAIZ2V0Q2xhc3NzcQB+AAu4qI5UdAACbmVzcQB+AAtFQRGBdAACZXFzcQB+AAvKwPqqdAACIyNzcQB+AAvZIIdEdAAIZmluYWxpemVzcQB+AAvPYvIgdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAjYm9va3dvcmsuaW1wbGljaXRzLnBheXJvbGwuUGlwZWxpbmV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBmc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0ACxib29rd29yay5pbXBsaWNpdHMucGF5cm9sbC5DYWxjdWxhdGVQYXlyb2xsMnVxAH4AWQAAAABxAH4AXXVxAH4AXwAAAABzcQB+AGFxAH4AZ3NxAH4AYXNxAH4AaXNxAH4AYXVxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAHNxAH4AVgBxAH4AJXVxAH4AWQAAAABzcQB+AHJ0AARVbml0c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnEAfgCMcQB+AIV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgCZeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBcdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBzWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBlc3EAfgBydAAFQXJyYXlxAH4AoXVxAH4AcAAAAAFzcQB+AHJ0AAZTdHJpbmdzcQB+AHZzcQB+AHl1cQB+AHwAAAADc3EAfgB+cQB+AIFzcQB+AH5xAH4Ag3EAfgCFc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4AcAAAAAJzcQB+AHJxAH4AdXEAfgC7c3EAfgBycQB+AIdxAH4AoXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAGmJvb2t3b3JrLmltcGxpY2l0cy5wYXlyb2xsc3EAfgDIdAASYm9va3dvcmsuaW1wbGljaXRzc3EAfgDIdAAIYm9va3dvcmtzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVvUu8BUdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAfy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9ib29rd29yay9jaDUtaW1wbGljaXRzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSQeuU8aze2gMRQhV392OQluC3Pzw==
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwXqrcMAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA2c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwVu9KHXQABm5vdGlmeXNxAH4ADMrQBsR0AA5taW51c0luc3VyYW5jZXNxAH4ADHrLDPN0AAhtaW51c1RheHNxAH4ADLKoyLt0AARuYW1lc3EAfgAMzltxsnQABHdhaXRzcQB+AAwL0s1VdAAGbmV0UGF5c3EAfgAMjsPUl3QADmNvcHkkZGVmYXVsdCQyc3EAfgAMvhFsO3QADSRhc0luc3RhbmNlT2ZzcQB+AAzHf9cMdAAOY29weSRkZWZhdWx0JDVzcQB+AAxo7byPdAADUGF5c3EAfgAM6VO+NnQADHByb2R1Y3RBcml0eXNxAH4ADG1vgg50AAZlcXVhbHNzcQB+AAwI0KNqdAAQQ2FsY3VsYXRlUGF5cm9sbHNxAH4ADJj+wfd0AAhlbXBsb3llZXNxAH4ADHmxeNp0AAxhc0luc3RhbmNlT2ZzcQB+AAwUFSxmdAAUbWludXNGaW5hbERlZHVjdGlvbnNzcQB+AAwdiymUdAASXzQwMWtEZWR1Y3Rpb25SYXRlc3EAfgAMVgcmKnQADHN5bmNocm9uaXplZHNxAH4ADAGvHMZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMCOj5M3QAB3RheFJhdGVzcQB+AAyPfuSndAAIY2FuRXF1YWxzcQB+AAziReg3dAAOY29weSRkZWZhdWx0JDRzcQB+AAwf1JFzdAAQUHJlVGF4RGVkdWN0aW9uc3NxAH4ADIlzgeN0AARtYWluc3EAfgAMZEJ1mXQADXByb2R1Y3RQcmVmaXhzcQB+AAxJ/cFHdAAJbm90aWZ5QWxsc3EAfgAMzi4drXQADGlzSW5zdGFuY2VPZnNxAH4ADL+Wdz90AAY8aW5pdD5zcQB+AAyxs6LZdAAHUGF5cm9sbHNxAH4ADGuljxp0AAI9PXNxAH4ADGOOeix0AAVjbG9uZXNxAH4ADBIUh3V0AAYkaW5pdCRzcQB+AAxbC4S3dAAdaW5zdXJhbmNlUHJlbWl1bXNQZXJQYXlQZXJpb2RzcQB+AAwfWFCRdAAOY29weSRkZWZhdWx0JDNzcQB+AAyX/bKxdAAEY29weXNxAH4ADF7Z3CV0ABFQb3N0VGF4RGVkdWN0aW9uc3NxAH4ADFM/cgl0AAVGaW5hbHNxAH4ADCPlpWx0AAh0b1N0cmluZ3NxAH4ADF2dPtZ0AAIhPXNxAH4ADEmxBIl0AAhnZXRDbGFzc3NxAH4ADOfoxOJ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADIY0luN0AAhFbXBsb3llZXNxAH4ADFzHt7R0AAVzdGFydHNxAH4ADBuFTaJ0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADPA5SoJ0AAJuZXNxAH4ADM+9epB0AAxhbm51YWxTYWxhcnlzcQB+AAywwb+WdAARcG9zdFRheERlZHVjdGlvbnNzcQB+AAw/LC2sdAACZXFzcQB+AAzOf6eqdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMT+OafXQACW1pbnVzNDAxa3NxAH4ADEmxged0AAIjI3NxAH4ADJZfYg10AAhmaW5hbGl6ZXNxAH4ADJk8NXR0AA5wcm9kdWN0RWxlbWVudHNxAH4ADN05zpB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAdzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAl0ACtib29rd29yay5pbXBsaWNpdHMucGF5cm9sbC5QcmVUYXhEZWR1Y3Rpb25zdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ag0wACWluaGVyaXRlZHEAfgCDTAAHcGFyZW50c3EAfgCDeHEAfgCgc3EAfgCbdXEAfgB+AAAAAHNxAH4Am3VxAH4AfgAAAABzcQB+AJt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJ9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ALh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALlzcQB+AKx0AANBbnlzcQB+ALBzcQB+ALN1cQB+ALYAAAACc3EAfgC4dAAFc2NhbGFxAH4Av3NxAH4AgHEAfgCNdXEAfgCOAAAAAHNxAH4AkAl0ACxib29rd29yay5pbXBsaWNpdHMucGF5cm9sbC5Qb3N0VGF4RGVkdWN0aW9uc3VxAH4AkwAAAABxAH4Al3VxAH4AmQAAAABzcQB+AJtxAH4AoXNxAH4Am3NxAH4Ao3NxAH4Am3VxAH4AfgAAAABzcQB+AJt1cQB+AH4AAAAAc3EAfgCbdXEAfgCqAAAAAnNxAH4ArHEAfgCvc3EAfgCwc3EAfgCzdXEAfgC2AAAAA3NxAH4AuHEAfgC7c3EAfgC4cQB+AL1xAH4Av3NxAH4ArHEAfgDBc3EAfgCwc3EAfgCzdXEAfgC2AAAAAnNxAH4AuHEAfgDGcQB+AL9zcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAJdAAgYm9va3dvcmsuaW1wbGljaXRzLnBheXJvbGwuRmluYWx1cQB+AJMAAAAAcQB+AJd1cQB+AJkAAAAAc3EAfgCbcQB+AKFzcQB+AJtzcQB+AKNzcQB+AJt1cQB+AH4AAAAAc3EAfgCbdXEAfgB+AAAAAHNxAH4Am3VxAH4AqgAAAAJzcQB+AKxxAH4Ar3NxAH4AsHNxAH4As3VxAH4AtgAAAANzcQB+ALhxAH4Au3NxAH4AuHEAfgC9cQB+AL9zcQB+AKxxAH4AwXNxAH4AsHNxAH4As3VxAH4AtgAAAAJzcQB+ALhxAH4AxnEAfgC/c3EAfgCAcQB+AI11cQB+AI4AAAAAc3EAfgCQAHQAI2Jvb2t3b3JrLmltcGxpY2l0cy5wYXlyb2xsLkVtcGxveWVldXEAfgCTAAAAAH5xAH4AlXQACENsYXNzRGVmdXEAfgCZAAAAAHNxAH4Am3EAfgChc3EAfgCbc3EAfgCjc3EAfgCbdXEAfgB+AAAAAHNxAH4Am3VxAH4AfgAAAABzcQB+AJt1cQB+AKoAAAAGc3EAfgCsdAAMU2VyaWFsaXphYmxlc3EAfgCwc3EAfgCzdXEAfgC2AAAAAnNxAH4AuHEAfgDGcQB+AL9zcQB+AKxxAH4BDXNxAH4AsHNxAH4As3VxAH4AtgAAAANzcQB+ALhxAH4Au3NxAH4AuHQAAmlvcQB+AL9zcQB+AKx0AAdQcm9kdWN0cQB+AQ5zcQB+AKx0AAZFcXVhbHNxAH4BDnNxAH4ArHEAfgCvc3EAfgCwc3EAfgCzdXEAfgC2AAAAA3NxAH4AuHEAfgC7c3EAfgC4cQB+AL1xAH4Av3NxAH4ArHEAfgDBcQB+AQ5zcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAdAAeYm9va3dvcmsuaW1wbGljaXRzLnBheXJvbGw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xAH4AsHNxAH4As3VxAH4AtgAAAANzcQB+ALhxAH4Au3NxAH4AuHEAfgC9cQB+AL9zcQB+AJt1cQB+AH4AAAAAc3EAfgCbdXEAfgCqAAAAAnNxAH4ArHEAfgCvcQB+AaNzcQB+AKxxAH4AwXEAfgGJdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAaYm9va3dvcmsuaW1wbGljaXRzLnBheXJvbGxzcQB+AbB0ABJib29rd29yay5pbXBsaWNpdHNzcQB+AbB0AAhib29rd29ya3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9S03HZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAB/L1VzZXJzL2tjaXNzZWxsL0RvY3VtZW50cy9MZWFybmluZy1NYXRlcmlhbC9Qcm9qZWN0cy9pdGVyYXRpb24yL3NyYy9tYWluL3NjYWxhL2Jvb2t3b3JrL2NoNS1pbXBsaWNpdHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFLXNCKwpNVFF/rI8bIYptlS59W9
+external apis:
+0 items
+source infos:
+3 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/java-database-api.scala -> 
+AAAAAAAAAAA=
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-type-pipeline.scala -> 
+AAAAAAAAAAA=
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/bookwork/ch5-implicits/phantom-types.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9RDAf51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9ib29rd29yay9jaDUtaW1wbGljaXRzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9S03HZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9ib29rd29yay9jaDUtaW1wbGljaXRzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9S7wFR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9ib29rd29yay9jaDUtaW1wbGljaXRzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv

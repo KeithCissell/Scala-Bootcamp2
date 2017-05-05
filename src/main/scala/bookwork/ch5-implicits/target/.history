@@ -1,0 +1,6 @@
+run-main progscala2.implicits.scaladb.DB
+run-main bookwork.implicits.scaladb.DB
+exit
+run-main bookwork.implicits.payroll.CalculatePayroll
+run-main bookwork.implicits.payroll.CalculatePayroll2
+exit
