@@ -42,3 +42,14 @@ Working along with O'Reilly's Programming Scala 2nd Edition.
 - Type Classes
   - Allow the creation of classes that add method extentions to a superclass
   - Useful when you only need the behavior on a few clients vs the majority of them
+- Zip Method
+  - `list1 zip list2`
+  - creates a new list of pairs (Tuple2's) matching items in the two lists based on index
+  - if one list is longer than the other, the extra elements are lost
+- List of (most) Built-In implicits: pg. 161
+  - lots of conversion methods
+  - to/from Java
+  - OS processes analogous to running UNIX shell commands
+- Making Implicit usage more readable/understandable
+  - name the package for them `implicit`
+  - put them in an object named `Implicit`
