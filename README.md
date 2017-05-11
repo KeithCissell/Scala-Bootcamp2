@@ -82,3 +82,154 @@ Working along with O'Reilly's Programming Scala 2nd Edition.
 - Making Implicit usage more readable/understandable
   - name the package for them `implicit`
   - put them in an object named `Implicit`
+
+### Chapter 6 - Functional Programming in Scala
+- Functional Paradigm
+  - Immutable data
+  - Programs have no side effects (pure)
+  - Functions returning Unit can only perform side effects
+  - Higher-Order Function: a function that takes or returns another function
+  - Input/Output is not pure
+  - Combinators: higher-order, pure functions that can be composed together as flexible fine-grained building blocks
+  - Lazy evaluation: evaluation is delayed until an answer is required
+- Reduce function
+  - reduces a collection of integers to a single value
+  - takes 2 values `reduce (_ + _)`
+  - first arg is the current element from collection
+  - second arg is the accumulator
+- Closure
+  - for a compiler to encompass a function, it must create a reference to any external mutable variables
+  - behavior of the function can change as it references and reads its current value each time it is called
+  - a function with no external references is trivially closed over itself
+- Function:
+  - an operation that is named or anonymous. Its code is not evaluated until the function is called. It may or may not have
+  free (unbound) variables in its definition.
+- Lambda:
+  - an anonymous (unnamed) function. It may or may not have free (unbound) variables in its definition
+- Closure:
+  - a function, anonymous or named, that closes over its environment to bind variables in scope to free variables within the function
+- Tail-Recursion
+  - `import scala.annotation.tailrec`
+  - `@tailrec`
+  - can be optimized by the compiler into a loop IFF it meets tail-call recursion
+  - It also must have a closed scope, so:
+    - private
+    - final
+    - nested within a method
+- Trampoline Tail-Calls
+  - `import scala.util.control.TailCalls._`
+  - Makes it easier to do back and forth calls (A calls B calls A calls B...) without recursive function calls
+  - `tailcall(f(x))`
+- Partially Applied Functions
+  - If a function takes multiple argument lists a new function can be defined where the trailing arg list is omitted
+  - `def cat1(s1: String)(s2: String) = s1 + s2`
+    - this is called: `cat1("Hello ")("World!")`
+  - `val hello = cat1("Hello ") _`
+    - now you can call: `hello("World!")`
+- Partial Function
+  - single-argument function that is not defined for all values of the arguments type
+  - case matches
+- Curried Functions
+  - chaining together multiple functions that each take a single argument
+  - now a partially applied function can be defined:
+  - `def cat2(s1: String) = (s2: String) => s1 + s2`
+    - still called: `cat2("Hello ")("World!")`
+  - `val cat2hello = cat2("Hello ")`
+    - still called: `cat2hello("World!")`
+- The Curried Method:
+  - method used to convert a multiple argument function into a curried function (takes multiple arg lists)
+  - `def cat3(s1: String, s2: String) = s1 + s2`
+    - this is called: `cat3("Hello ", "World!")`
+  - `val cat3Curried = (cat3 _).curried`
+    - now you can call: `cat3Curried("Hello ")("World!")`
+  - we can also uncurry a function
+    - `val cat3Uncurried = Function.uncurried(cat3Curried)`
+- Lists
+  - Immutable Collection
+  - Operations
+    - ::  prepend item to list (binds to the right)
+    - :+  append item to list (binds to the left)
+    - ++  concatenate 2 lists
+    - Nil empty list (List.empty[Nothing]) used for the tail of a list (... :: Nil)
+- Sequences
+  - Mutable Collection - default? (Allows handling of Java Arrays)
+  - Immutable exists `scala.collection.immutable.Seq`
+    - type alias solution to override default Seq 'src/main/scala/bookwork/ch6-functionalprogramming/package.scala'
+    - immutable may be the default now (supposedly Scala 2.12) see pg. 191
+  - Operations
+    - +:  prepend item to sequence (binds to the right)
+    - :+  append item to list (binds to the left)
+    - ++  concatenate 2 lists
+    - Seq.empty   empty sequence used for the tail (... +: Seq.empty)
+- Vectors
+  - Immutable Collection
+  - run O(1) time for all operations
+  - Lists run O(n) for all operations besides accessing head
+- Maps
+  - Immutable collection by default
+  - key, value pairs
+  - Map differs from the map function found in many of the data structures used in Scala (similar idea though)
+  - Operations
+    - declaration `Map(key -> value, key -> value)`
+    - adding element `myMap + (key -> value)`
+    - removing element `myMap - (key -> value)`
+    - `++` and `--` for adding/removing elements defined in Iterators (which could be other sets, lists, etc.)
+- Sets
+  - Immutable collection
+  - Unordered collection
+  - Require all elements to be unique
+  - Operations
+    - declaration `Set(a, b, c)`
+    - adding/removing `+`/`-`
+    - `++` and `--` for adding/removing elements defined in Iterators (which could be other sets, lists, etc.)
+- Flat Map
+  - `flatCollection = collection.flatten`
+  - takes in a collection of collections and returns a single collection
+- Traversable Operations: Pg. 200
+  - `drop(n)`: knocks off the first n elements
+  - `dropWhile(condition())`: drops the longest prefix of elements that satisfy the condition
+  - `exists(condition())`: returns t/f whether at least one element meets the condition
+  - `filter(condition())`: returns only elements meeting the condition
+  - `filterNot(condition())`: returns only elements that do not meet the condition
+  - `find(condition())`: returns an option
+    - Some(A), where A is the first element found meeting the condition
+    - None, if no elements meet the condition
+  - `forall(condition())`: returns t/f based on if every element meets the condition
+  - `partition(condition())`: returns 2 traversable collections
+    - First collection: elements that meet the condition
+    - Second collection: elements that don't meet the condition
+  - `take(n)`: returns the first n elements
+  - `takeWhile(condition())`: takes the longest prefix of elements that satisfy the condition
+- Reduce
+  - `collection reduce (_ op _)`
+  - Takes the collection and reduces it into one value `_` and accumulates it into the other `_` based on the operator (op)
+  - reduce called on an empty list throws an exception
+  - optionReduce
+    - returns Option: Some(Accumulator) or None for empty
+    - good for if you may be operating on an empty collection
+  - Variations - page 203 - 205
+
+- Fold
+  - `collection fold (seed) (_ op _)`
+  - much like reduce, but starts the first value as `seed`
+  - fold on an empty collection just returns the seed
+  - Variations - page 203 - 205
+    - `foldRight`: traverses the collection from right to left (helps keep things in the right order)
+- Left vs Right Traversal
+  - For `fold/reduce/etc. (_ op _)`
+    - etcRight
+      - traverses right to left
+      - first argument is the accumulator
+      - Can handle infinite lazy streams with truncation
+    - etcLeft
+      - traverses left to right
+      - second argument is the accumulator
+      - These can be converted into loops because they are implicitly tail recursive
+- Stream
+  - eagerly evaluates head but is lazy and only evaluates tail on demand
+  - good for processing an endless steam of data
+  - #:: cons operator
+- Structure Sharing
+  - Creating an immutable copy of a collection (say a vector of 100000 elements) will share all the similar elements
+  - This increases the efficiency of making a copy. Changing 1 element in the vector doesn't cause 99999 elements to be duplicated
+  - Old versions of collection copies aren't garbage collected until all references of its elements are gone
