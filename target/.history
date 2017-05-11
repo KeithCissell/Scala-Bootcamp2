@@ -1,0 +1,6 @@
+run-main bookwork.forcomps.RemoveBlanks 
+run-main bookwork.forcomps.RemoveBlanks \
+run-main bookwork.forcomps.RemoveBlanks \RemoveBlanks.scala
+run-main bookwork.forcomps.RemoveBlanks \src/main/scala/bookwork/ch7-forcomprehensions/RemoveBlanks.scala
+run-main bookwork.forcomps.RemoveBlanks \ src/main/scala/bookwork/ch7-forcomprehensions/RemoveBlanks.scala
+run-main bookwork.forcomps.RemoveBlanks src/main/scala/bookwork/ch7-forcomprehensions/RemoveBlanks.scala

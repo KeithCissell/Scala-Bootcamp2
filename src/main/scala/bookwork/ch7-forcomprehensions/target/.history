@@ -1,0 +1,4 @@
+run-main bookwork.forcomps.RemoveBlanks \
+cd ..
+quit
+exit
