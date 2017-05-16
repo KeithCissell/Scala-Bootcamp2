@@ -1,0 +1,8 @@
+run-main bookwork.forcomps.RemoveBlanks \
+cd ..
+quit
+exit
+libraryDependencies += "org.scalaz" %% "scalaz-core" % "7.2.12"
+exit
+set libraryDependencies += "org.scalaz" %% "scalaz-core" % "7.2.12"
+exit
