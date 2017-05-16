@@ -25,3 +25,22 @@ Working along with O'Reilly's Programming Scala 2nd Edition.
   - in a for comp it invokes a withFilter
 - @
   - assigns a variable to the whole expression it matches to `x @ expr`
+- Containers
+  - Option
+    - Some/None: handles cases of zero or one items
+  - Either
+    - handles cases of one item or another
+    - Parameters `Either[+A, +B]`
+    - subclasses: `Left[A]` and `Right[B]`
+    - can be used for exception handling
+  - Try/Catch
+    - subclasses: `Success` and `Failure`
+    - stops after error thrown
+    - assertion
+      - use in a try without needing a catch: `Try{assert(i > 0, "Assertion Error")}`
+  - Validation
+    - allows for all errors to be accumulated and then dealt with at the
+    - 3rd party import from the Scalaz library
+    - great for forms
+    - Returns `Success` or `Failure` subclass (not the Try subclasses)
+    - Can return lists of results or list of failures
