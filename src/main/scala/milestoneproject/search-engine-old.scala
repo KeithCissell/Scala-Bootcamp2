@@ -1,7 +1,7 @@
-// src/main/scala/milestoneproject/search-engine.scala
+// src/main/scala/milestoneproject/search-engine-old.scala
 package milestoneproject
 
-object searchEngine {
+object searchEngineOld {
   /******************************************************
   **             Search Engine Classes
   ******************************************************/
@@ -20,39 +20,31 @@ object searchEngine {
   case class Result(title: String, description: String)
 
   def userFrequentSearch(usr: User): String = {
-    @scala.annotation.tailrec
-    def groupSearches(searches: List[Search], groups: List[List[Search]]): List[List[Search]] =
-      searches match {
-        case Nil          => groups
-        case head :: tail =>
-          val p = searches.partition(_ == head)
-          groupSearches(p._2, groups :+ p._1)
-    }
-    val frequencies = groupSearches(usr.searchHistory, Nil)
-
-    if (frequencies.isEmpty) {
-      return "No Search History Found"
+    if (usr.searchHistory.isEmpty) {
+      return "No Search History"
     } else {
-      return frequencies.maxBy(_.length).head.value
+      val frequencies = for {
+        s <- usr.searchHistory
+      } yield {
+        s -> usr.searchHistory.count(_ == s)
+      }
+      val mostFrequent = frequencies.maxBy(_._2)
+      return mostFrequent._1.value
     }
   }
 
   def engineFrequentSearch(users: List[User]): String = {
-    @scala.annotation.tailrec
-    def groupSearches(searches: List[Search], groups: List[List[Search]]): List[List[Search]] =
-      searches match {
-        case Nil          => groups
-        case head :: tail =>
-          val p = searches.partition(_ == head)
-          groupSearches(p._2, groups :+ p._1)
-    }
     val engineHistory = (for (usr <- users) yield usr.searchHistory).flatten
-    val frequencies = groupSearches(engineHistory, Nil)
-
-    if (frequencies.isEmpty) {
-      return "No Search History Found"
+    if (engineHistory.isEmpty) {
+      return "No Users Found"
     } else {
-      return frequencies.maxBy(_.length).head.value
+      val frequencies = for {
+        s <- engineHistory
+      } yield {
+        s -> engineHistory.count(_ == s)
+      }
+      val mostFrequent = frequencies.maxBy(_._2)
+      return mostFrequent._1.value
     }
   }
 
@@ -107,6 +99,6 @@ object searchEngine {
     for (user <- searchEngineUsers) println(s"${user.name}'s most frequent search: ${userFrequentSearch(user)}")
 
     // Find the most frequent search on the engine
-    println(s"Most frequent search on this engine: ${engineFrequentSearch(searchEngineUsers)}")
+    println(s"The most frequent search on this engin: ${engineFrequentSearch(searchEngineUsers)}")
   }
 }
