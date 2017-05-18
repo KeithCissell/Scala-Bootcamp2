@@ -1,0 +1,232 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/add$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/add.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/curryAdd$$anonfun$1.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/curryAdd$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/curryAdd.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/forComp$$anonfun$1$$anonfun$apply$1.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/forComp$$anonfun$1$$anonfun$apply$2.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/forComp$$anonfun$1.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/forComp$.class
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> /Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/forComp.class
+binary dependencies:
+6 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> /Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> /Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> /Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> modulework.add
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> modulework.add$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> modulework.curryAdd
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> modulework.curryAdd$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> modulework.curryAdd$$anonfun$1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> modulework.forComp
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> modulework.forComp$
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> modulework.forComp$$anonfun$1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> modulework.forComp$$anonfun$1$$anonfun$apply$1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> modulework.forComp$$anonfun$1$$anonfun$apply$2
+used names:
+110 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> +
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> <init>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> AnyRef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> Int
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> Nothing
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> Object
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> a
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> add
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> addition
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> b
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> modulework
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> scala
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> +
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> :+
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> ::
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> <init>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> <repeated>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> ==
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> A
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Any
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> AnyRef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Array
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> B
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Boolean
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> CanBuildFrom
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Coll
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Function1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Function2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Int
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> List
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> MatchError
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Nil
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Nothing
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Object
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Predef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> String
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> T0
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> That
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> Unit
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> _root_
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> a
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> accum
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> addition
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> apply
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> applyChange
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> asInstanceOf
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> b
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> canBuildFrom
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> curried
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> curriedAddition
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> curryAdd
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> decNums
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> decrement
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> f
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> head
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> immutable
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> incNums
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> increment
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> ints
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> isInstanceOf
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> mapOverList
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> modulework
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> nums
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> package
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> println
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> scala
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> tail
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> ->
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> <init>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> <repeated>
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> >
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> A
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Any
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> AnyRef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Array
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> ArrowAssoc
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> B
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Boolean
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> CanBuildFrom
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Coll
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> FilterMonadic
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Function1
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> GenTraversableOnce
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Int
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> List
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Nil
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Nothing
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Object
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Predef
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> String
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> That
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Tuple2
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> Unit
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> any2ArrowAssoc
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> apply
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> canBuildFrom
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> flatMap
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> forComp
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> immutable
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> length
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> lst
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> map
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> modulework
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> num
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> numLengths
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> nums
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> println
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> scala
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> toString
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> withFilter
+product stamps:
+10 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/add$.class -> lastModified(1495120441000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/add.class -> lastModified(1495120441000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/curryAdd$$anonfun$1.class -> lastModified(1495124973000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/curryAdd$.class -> lastModified(1495124973000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/curryAdd.class -> lastModified(1495124973000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/forComp$$anonfun$1$$anonfun$apply$1.class -> lastModified(1495126234000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/forComp$$anonfun$1$$anonfun$apply$2.class -> lastModified(1495126234000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/forComp$$anonfun$1.class -> lastModified(1495126234000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/forComp$.class -> lastModified(1495126234000)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/target/scala-2.10/classes/modulework/forComp.class -> lastModified(1495126234000)
+source stamps:
+3 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> hash(1376938690b19f455fc51a5ff1fc1a70e21fc901)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> hash(9e606d9c9514a21562b5a56f0c4737a0444e33bc)
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> hash(63d666aa835eb65ccf323274c12e354db256bf1e)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1491769093000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kcissell/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.Predef$
+internal apis:
+3 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUpypvwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwZAiybXQABm5vdGlmeXNxAH4ADAnKVj10AAR3YWl0c3EAfgAMEqOlQXQADSRhc0luc3RhbmNlT2ZzcQB+AAzwHdYSdAAGZXF1YWxzc3EAfgAMnlrJS3QADGFzSW5zdGFuY2VPZnNxAH4ADPpKZRp0AAxzeW5jaHJvbml6ZWRzcQB+AAzohWmxdAANJGlzSW5zdGFuY2VPZnNxAH4ADBfGNfp0AAlub3RpZnlBbGxzcQB+AAxtxtQhdAAMaXNJbnN0YW5jZU9mc3EAfgAM+PfqhHQACGFkZGl0aW9uc3EAfgAM04p9ZHQAAj09c3EAfgAM8LTZS3QABWNsb25lc3EAfgAMV/Sp83QACHRvU3RyaW5nc3EAfgAMTzAhw3QAAiE9c3EAfgAMbKj6QXQACGdldENsYXNzc3EAfgAMtZKpanQAAm5lc3EAfgAMuj9T2HQAA2FkZHNxAH4ADDhrQpB0AAJlcXNxAH4ADFqp8QR0AAIjI3NxAH4ADJFLtUd0AAhmaW5hbGl6ZXNxAH4ADGZ1RFJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA5tb2R1bGV3b3JrLmFkZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AdnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ad3NxAH4AanQAA0FueXNxAH4AbnNxAH4AcXVxAH4AdAAAAAJzcQB+AHZ0AAVzY2FsYXEAfgB9dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKbW9kdWxld29ya3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBwfbWR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABzL1VzZXJzL2tjaXNzZWxsL0RvY3VtZW50cy9MZWFybmluZy1NYXRlcmlhbC9Qcm9qZWN0cy9pdGVyYXRpb24yL3NyYy9tYWluL3NjYWxhL21vZHVsZXdvcmsvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBN2k4aQsZ9FX8UaX/H8GnDiH8kB
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwosgbSQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwchnoMXQABm5vdGlmeXNxAH4ADEjE3SJ0AAR3YWl0c3EAfgAMlmjgNnQADSRhc0luc3RhbmNlT2ZzcQB+AAx44QxAdAALbWFwT3Zlckxpc3RzcQB+AAw2T/CcdAAGZXF1YWxzc3EAfgAMo5gcyHQADGFzSW5zdGFuY2VPZnNxAH4ADKIGO9p0AAxzeW5jaHJvbml6ZWRzcQB+AAy5JeljdAANJGlzSW5zdGFuY2VPZnNxAH4ADItbv3J0AARtYWluc3EAfgAMuaCB0HQACW5vdGlmeUFsbHNxAH4ADJfd72R0AAxpc0luc3RhbmNlT2ZzcQB+AAzAzG1KdAAJZGVjcmVtZW50c3EAfgAM28tKFXQACGFkZGl0aW9uc3EAfgAMiwbAmnQACGN1cnJ5QWRkc3EAfgAMspR/63QAAj09c3EAfgAMlguNrXQABWNsb25lc3EAfgAMsVUDBnQACHRvU3RyaW5nc3EAfgAMzqgDjnQAAiE9c3EAfgAMdNgLRXQACGdldENsYXNzc3EAfgAM3HKzwnQAAm5lc3EAfgAM+oceqXQACWluY3JlbWVudHNxAH4ADNB1U2d0AAJlcXNxAH4ADFkBlKF0AAIjI3NxAH4ADBBE5Bt0AAhmaW5hbGl6ZXNxAH4ADD9bhbZ0AAhoYXNoQ29kZXNxAH4ADJqGCS10AA9jdXJyaWVkQWRkaXRpb25zcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAATbW9kdWxld29yay5jdXJyeUFkZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AY3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGhzcQB+AGN1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAABzcQB+AFgAcQB+AB91cQB+AFsAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIN1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBweHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB3WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgB2dAAFQXJyYXlxAH4AfHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB2dAAGU3RyaW5nc3EAfgB6c3EAfgB9dXEAfgCAAAAAA3NxAH4AgnQABGphdmFzcQB+AIJ0AARsYW5ncQB+AIdzcQB+AGN1cQB+AEYAAAAAc3EAfgBjdXEAfgCbAAAAAnNxAH4AdnQABk9iamVjdHEAfgCfc3EAfgB2dAADQW55cQB+AHx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAptb2R1bGV3b3Jrc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcHGSWIXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AHMvVXNlcnMva2Npc3NlbGwvRG9jdW1lbnRzL0xlYXJuaW5nLU1hdGVyaWFsL1Byb2plY3RzL2l0ZXJhdGlvbjIvc3JjL21haW4vc2NhbGEvbW9kdWxld29yay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUnmBtnJUUohVitaVvDEc3oEROM7w=
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwYr/YywAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwchYM7XQABm5vdGlmeXNxAH4ADF9eqzV0AAR3YWl0c3EAfgAM1dI+SnQADSRhc0luc3RhbmNlT2ZzcQB+AAzXNuZUdAAGZXF1YWxzc3EAfgAMJv0YgnQADGFzSW5zdGFuY2VPZnNxAH4ADLFQ50V0AAxzeW5jaHJvbml6ZWRzcQB+AAzZsTRzdAANJGlzSW5zdGFuY2VPZnNxAH4ADKPa9Xd0AARtYWluc3EAfgAM0+xTAXQACW5vdGlmeUFsbHNxAH4ADJIwHsl0AAxpc0luc3RhbmNlT2ZzcQB+AAzpd4opdAACPT1zcQB+AAzm9c8wdAAFY2xvbmVzcQB+AAxjJ6cydAAIdG9TdHJpbmdzcQB+AAyVDKlTdAACIT1zcQB+AAwhNsT3dAAIZ2V0Q2xhc3NzcQB+AAzRpkM7dAACbmVzcQB+AAzCj9/PdAACZXFzcQB+AAzws7BAdAAHZm9yQ29tcHNxAH4ADMjZW5F0AAIjI3NxAH4ADHruMSJ0AAhmaW5hbGl6ZXNxAH4ADPRLRV90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJtb2R1bGV3b3JrLmZvckNvbXB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKbW9kdWxld29ya3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBx30wp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABzL1VzZXJzL2tjaXNzZWxsL0RvY3VtZW50cy9MZWFybmluZy1NYXRlcmlhbC9Qcm9qZWN0cy9pdGVyYXRpb24yL3NyYy9tYWluL3NjYWxhL21vZHVsZXdvcmsvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGPWZqqDXrZczzIydMEuNU2yVr8e
+external apis:
+0 items
+source infos:
+3 items
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/addition.scala -> 
+AAAAAAAAAAA=
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/curried-addition.scala -> 
+AAAAAAAAAAA=
+/Users/kcissell/Documents/Learning-Material/Projects/iteration2/src/main/scala/modulework/forcomp-translation.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBwfbWR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAcy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9tb2R1bGV3b3JrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBwfvgl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAcy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9tb2R1bGV3b3JrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBxKT/R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAcy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9tb2R1bGV3b3JrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBxjNx51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAcy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9tb2R1bGV3b3JrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBxkliF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAcy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9tb2R1bGV3b3JrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBx3Ir11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAcy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9tb2R1bGV3b3JrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBx30wp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAcy9Vc2Vycy9rY2lzc2VsbC9Eb2N1bWVudHMvTGVhcm5pbmctTWF0ZXJpYWwvUHJvamVjdHMvaXRlcmF0aW9uMi9zcmMvbWFpbi9zY2FsYS9tb2R1bGV3b3JrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
