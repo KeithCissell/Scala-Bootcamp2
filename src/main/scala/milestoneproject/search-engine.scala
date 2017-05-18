@@ -20,18 +20,24 @@ object searchEngine {
   case class Result(title: String, description: String)
 
   def userFrequentSearch(usr: User): Search = {
-    @scala.annotation.tailrec
-    def checkSearches(searches: List[Search])(frequencies: Map[Search,Int]): Map[Search,Int] =
-      searches match {
-        case Nil => frequencies
-        case head :: tail =>
-          if (frequencies.contains(head)) {
-            checkSearches(tail)(frequencies + (head -> (frequencies(head) + 1)))
-          } else {
-            checkSearches(tail)(frequencies + (head -> 1))
-          }
-      }
-    checkSearches(usr.searchHistory)(Search.empty)
+    val frequencies = for {
+      s <- usr.searchHistory
+    } yield {
+      s -> usr.searchHistory.count(_ == s)
+    }
+    val mostFrequent = frequencies.maxBy(_._2)
+    return mostFrequent._1
+
+    // @scala.annotation.tailrec
+    // def checkSearches(searches: List[Search], frequencies: Map[Search,Int]): Map[Search,Int] =
+    //   searches match {
+    //     case Nil          => frequencies
+    //     case head :: tail => head match {
+    //       case frequencies.contains(head) => checkSearches(tail, frequencies + (head -> (frequencies(head) + 1)))
+    //       case _                          => checkSearches(tail, frequencies + (head -> 1))
+    //     }
+    //   }
+    // checkSearches(usr.searchHistory, Map.empty)
   }
 
   /******************************************************
@@ -79,6 +85,9 @@ object searchEngine {
     val searchEngineUsers = List(Keith, Connor, Curly, Moe, Larry, Tessa, Patrick, Lewis, Tommy, Mark)
 
     // Print out info on all the users
-    for (user <- searchEngineUsers) println(user)
+    //for (user <- searchEngineUsers) println(user)
+
+    // Find each user's most frequent search
+    println(userFrequentSearch(Keith))
   }
 }
