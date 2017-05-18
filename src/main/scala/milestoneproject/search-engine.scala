@@ -19,25 +19,33 @@ object searchEngine {
 
   case class Result(title: String, description: String)
 
-  def userFrequentSearch(usr: User): Search = {
-    val frequencies = for {
-      s <- usr.searchHistory
-    } yield {
-      s -> usr.searchHistory.count(_ == s)
+  def userFrequentSearch(usr: User): String = {
+    if (usr.searchHistory.isEmpty) {
+      return "No Search History"
+    } else {
+      val frequencies = for {
+        s <- usr.searchHistory
+      } yield {
+        s -> usr.searchHistory.count(_ == s)
+      }
+      val mostFrequent = frequencies.maxBy(_._2)
+      return mostFrequent._1.value
     }
-    val mostFrequent = frequencies.maxBy(_._2)
-    return mostFrequent._1
+  }
 
-    // @scala.annotation.tailrec
-    // def checkSearches(searches: List[Search], frequencies: Map[Search,Int]): Map[Search,Int] =
-    //   searches match {
-    //     case Nil          => frequencies
-    //     case head :: tail => head match {
-    //       case frequencies.contains(head) => checkSearches(tail, frequencies + (head -> (frequencies(head) + 1)))
-    //       case _                          => checkSearches(tail, frequencies + (head -> 1))
-    //     }
-    //   }
-    // checkSearches(usr.searchHistory, Map.empty)
+  def engineFrequentSearch(users: List[User]): String = {
+    if (users.isEmpty) {
+      return "No Users Found"
+    } else {
+      val frequencies = for {
+        u <- users
+        s <- u.searchHistory
+      } yield {
+        s -> u.searchHistory.count(_ == s)
+      }
+      val mostFrequent = frequencies.maxBy(_._2)
+      return mostFrequent._1.value
+    }
   }
 
   /******************************************************
@@ -88,6 +96,9 @@ object searchEngine {
     //for (user <- searchEngineUsers) println(user)
 
     // Find each user's most frequent search
-    println(userFrequentSearch(Keith))
+    for (user <- searchEngineUsers) println(s"${user.name}'s most frequent search: ${userFrequentSearch(user)}")
+
+    // Find the most frequent search on the engine
+    println(s"The most frequent search on this engin: ${engineFrequentSearch(searchEngineUsers)}")
   }
 }
