@@ -208,7 +208,6 @@ Working along with O'Reilly's Programming Scala 2nd Edition.
     - returns Option: Some(Accumulator) or None for empty
     - good for if you may be operating on an empty collection
   - Variations - page 203 - 205
-
 - Fold
   - `collection fold (seed) (_ op _)`
   - much like reduce, but starts the first value as `seed`
@@ -233,7 +232,7 @@ Working along with O'Reilly's Programming Scala 2nd Edition.
   - Creating an immutable copy of a collection (say a vector of 100000 elements) will share all the similar elements
   - This increases the efficiency of making a copy. Changing 1 element in the vector doesn't cause 99999 elements to be duplicated
   - Old versions of collection copies aren't garbage collected until all references of its elements are gone
-  
+
 ### Chapter 7 - for Comprehensions in Depth
 - Under the Hood of For Comprehensions
   - Syntactic Sugar - calls:

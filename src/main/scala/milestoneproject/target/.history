@@ -1,0 +1,4 @@
+run
+List(Search(Cardinals,List(Result(Cardinals Nation,You're one stop for up to date Cardinal's score and news), Result(MLB Network,Cardinals vs. Orioles: Live Score Updates))), Search(Cardinals,List(Result(Cardinals Nation,You're one stop for up to date Cardinal's score and news), Result(MLB Network,Cardinals vs. Orioles: Live Score Updates))), Search(Cardinals,List(Result(Cardinals Nation,You're one stop for up to date Cardinal's score and news), Result(MLB Network,Cardinals vs. Orioles: Live Score Updates)))))
+Search(asdf,List())
+run
