@@ -1,5 +1,5 @@
-# Iteration2
-Iteration2 of the scala learning modules.
+# Iteration 2
+Iteration 2 of the scala learning modules.
 
 ## Book Work
 Working along with O'Reilly's Programming Scala 2nd Edition.
